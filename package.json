@@ -1,0 +1,23 @@
+{
+  "name": "vercell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianoCorolla/vercell.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulianoCorolla/vercell/issues"
+  },
+  "homepage": "https://github.com/JulianoCorolla/vercell#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
