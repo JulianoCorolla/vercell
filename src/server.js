@@ -7,6 +7,6 @@ app.get('/', (req, res)=> {
 });
 
 
-app.listem(port, () => {
+app.listen(port, () => {
     console.log('App executando na porta ' + port);
 });
